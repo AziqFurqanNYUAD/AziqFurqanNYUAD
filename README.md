@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aziq</h1>
 <h3 align="center">I'm an aspiring Software Developer and a technology enthusiast.</h3>
 
-- 🔭 I’m currently working a Rising Junior at New York University Abu Dhabi
+- 🔭 Currently working a Rising Junior at New York University Abu Dhabi
 
-- 🌱 I’m currently learning **C++**
+- 🌱 Currently learning **JavaScript & React**
 
-- 👯 💞️ I’m looking to collaborate on small coding projects.
+- 👯 Looking to collaborate on small coding projects.
 
-- 🤝 I’m currently researching in ML
+- 🤝 Currently researching in ML
 
 - 📫 How to reach me? Email me at **af4145@nyu.edu**
 

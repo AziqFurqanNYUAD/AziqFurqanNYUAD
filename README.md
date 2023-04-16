@@ -7,7 +7,7 @@
 
 - 👯 💞️ I’m looking to collaborate on small coding projects.
 
-- 🤝 I’m looking for help with [identifying issues in Medifind](https://github.com/hasin-shabbir/medi-finder/)
+- 🤝 I’m currently researching in ML
 
 - 📫 How to reach me? Email me at **af4145@nyu.edu**
 

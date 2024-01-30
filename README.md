@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aziq</h1>
 <h3 align="center">I'm an aspiring Software Developer and a technology enthusiast.</h3>
 
-- 🔭 Currently working a Rising Junior at New York University Abu Dhabi
+- 🔭 Currently a Rising Senior at New York University Abu Dhabi
 
 - 🌱 Currently learning **JavaScript & React**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me? Email me at **af4145@nyu.edu**
 
-- ⚡ Fun fact **I bet you cannnot beat me at PUBGM**
+- ⚡ Fun fact **I bet you can't beat me at PUBGM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
